@@ -13,5 +13,3 @@ How to download: The most direct way is to go to Code -> Download ZIP to downloa
 How to install: Please, follow the instructions indicated in the Tutorial that you can find in this GitHub
 
 Additional info: This is an open access article distributed under the Creative Commons Attribution License which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
-
-Requirements:
