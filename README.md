@@ -3,7 +3,7 @@ Algorithm to generate 3D Model in AutoCAD based on GIS cadastre data
 
 Description:
 
-This method is part of the article “A method for the automated construction of 3D models of cities and neighbourhoods from official cadastre data for solar analysis”, written by Carlos Beltran-Velamazan, Marta Monzón-Chavarrías and Belinda López-Mesa.
+This method is part of the paper “A method for the automated construction of 3D models of cities and neighbourhoods from official cadastre data for solar analysis”, written by Carlos Beltran-Velamazan, Marta Monzón-Chavarrías and Belinda López-Mesa.
 
 There the method is explained and developed and the results obtained are shown. The article is published in the Sustainability journal, in the following link
 https://www.mdpi.com/2071-1050/13/11/6028
